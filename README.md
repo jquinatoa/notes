@@ -21,7 +21,7 @@ The guest contacted us to verify their recent order details without reporting an
 * Quantity of Tickets: [Number of tickets purchased].
 * Date of Visit: The tickets are valid for [specific date or range of dates].
 * Season Pass Status: The guest's season pass is [active], and all payments for the order have [been/not been] successfully processed.
-[Jose 82318]
+\n[Jose 82318]
 ## Account Creation Error
 The guest contacted us facing challenges completing a purchase order due to difficulties with creating an account. I patiently listened as they described their issue. I accessed to the web page and replicated the purchase process. I suggested several troubleshooting steps: trying a different device, using an alternate web browser, and attempting to sign up with a different email address. I suggested them that this often resolves such issues. I waited patiently while the guest followed the steps I suggested. After some time, the guest successfully completed the order. [Jose 82318]
 ## Account Creation Password Error
