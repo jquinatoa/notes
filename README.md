@@ -28,6 +28,9 @@ The guest contacted us facing challenges completing a purchase order due to diff
 ## Account credentials
 * Email: cantalk.accesso@gmail.com
 * Password: Accesso#1
+## Passport Support & Atlassian
+* Username: Cantalk
+* Password: Access0#3
 ## Technical Support Management 
 * Phone number: 321.249.0110, their hours are Monday-Friday from 9:00AM-5:00 PM EST
 
