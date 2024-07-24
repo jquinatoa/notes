@@ -49,6 +49,9 @@ The guest had trouble completing a purchase order due to account creation issues
 ## Guest Misrouted to Technical Support Instead of Customer Service
 The guest contacted technical support but realized they needed customer service assistance instead. I acknowledged their concern and informed them that their issue was beyond our technical support scope. I provided the contact information for customer service and advised them to reach out directly for further assistance. [Jose82318]
 
+## Shipping Delivery 
+The guest selected shipping delivery for physical tickets but needed them sooner. I located the order, validated the guest's identity, and then arranged for them to receive digital tickets so they could enter the park immediately. [Jose82318]
+
 ## Account credentials
 * Email: cantalk.accesso@gmail.com
 * Password: Accesso#1
